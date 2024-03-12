@@ -16,12 +16,12 @@ Here is the live link: https://mr-sudarshan-patil.github.io/Randome-Link-Generat
 <h1 align="Center">Desktop View</h1>
 <hr/>
 <br/>
-<img width=100% src="https://github.com/Mr-Sudarshan-Patil/Amazon-Clone---Home-Page/blob/main/Amazon-Desktop-Design.png"/>
+<img width=100% src="https://github.com/Mr-Sudarshan-Patil/Randome-Link-Generator/blob/main/RL-Desktop-Design.png"/>
 <br/>
 
-<h1 align="Center">Desktop View</h1>
+<h1 align="Center">Android View</h1>
 <hr/>
 <br/>
-<img width=100% src="https://github.com/Mr-Sudarshan-Patil/Amazon-Clone---Home-Page/blob/main/Amazon-Desktop-Design.png"/>
+<p align="Center"><img width=25% src="https://github.com/Mr-Sudarshan-Patil/Randome-Link-Generator/blob/main/RL-Android-Design.png"/><p/>
 <br/>
 
