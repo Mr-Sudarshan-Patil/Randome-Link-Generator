@@ -8,6 +8,20 @@ Technologies Used:
 HTML
 CSS
 JavaScript
-How to Use:
-Clone the repository: git clone https://github.com/your-username/random-link-generator.git
-Open index.html in your preferred web browser.
+
+Here is the live link: https://mr-sudarshan-patil.github.io/Randome-Link-Generator/
+<br/>
+<br/>
+<br/>
+<h1 align="Center">Desktop View</h1>
+<hr/>
+<br/>
+<img width=100% src="https://github.com/Mr-Sudarshan-Patil/Amazon-Clone---Home-Page/blob/main/Amazon-Desktop-Design.png"/>
+<br/>
+
+<h1 align="Center">Desktop View</h1>
+<hr/>
+<br/>
+<img width=100% src="https://github.com/Mr-Sudarshan-Patil/Amazon-Clone---Home-Page/blob/main/Amazon-Desktop-Design.png"/>
+<br/>
+
